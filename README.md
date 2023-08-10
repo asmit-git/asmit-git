@@ -1,6 +1,6 @@
 # Hi there I'm Asmit Gautam 👋
 
-I'm a Software Engineer and  Digital Marketer . Currently working as a Software Engineer at [AlphaTEDS](https://alphateds.com)
+I'm a Software Engineer, Full stack javascript developer. Currently working as a Software Engineer at [AlphaTEDS](https://alphateds.com)
 
 
 - 🔭 I’m currently working as a Javascript Developer
